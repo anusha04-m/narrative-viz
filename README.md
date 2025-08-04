@@ -11,8 +11,14 @@
 
 <p> Scene 3 corresponds to the bowl of the martini glass where the narrative transitions from the narrow, author-driven path into a reader-driven exploration. At this “jumping off point,” the viewer can choose their own path through the visualization through continent filters and an income level slider. This highlight specific subsets of the data, including geographic regions as well as countries within the threshold of a certain income level per capita. The user decides which subset of data to view. . This exploration encourages the user to pose their own questions, such as "how does life expectancy differ in Asia compared to Europe at similar income levels?" or "What is the distribution of low-income African countries?". During this stage, the user tests hypotheses and discovers insights about global disparities in income and life expectancy that are not directly narrated by the visualisation. The visualization no longer dictates a single narrative flow but instead provides a structured environment where the viewer can pursue their own lines of inquiry within the controlled data space. </p>
 
-<h2> Visual Structure </h2>
+<h2> Visual Structure & Scene ordering </h2>
 <p> Each scene in the visualization follows a consistent layout template. This entails a scatterplot of Income per Capita along x-axis vs Life Expectancy along y-axis where, with each bubble representing country, the size of this bubble representing the corresponding country's population and represented colour representing continent of corresponding country. Keeping the axes, scales, and layout the same across all scenes prevents the viewer from being distracted by irrelevant visual changes. Instead of reorienting to a new visual setup, the user can focus on the important data insights as relevant new information is revealed, which ensure that the user's focus remains on the intended message about disparities in global health and wealth. </p>
+
+<p> Scene 1 is not only a macro view of global disparities but also the simplest display of scatterplot withotu the "greying out" in scene 2, nor filtering or slider options. Ensuring that the order start with with the simplest visual presentation helps prevent the user from becoming overwhelmed by too much information at once. It allows the viewer to first build familiarity with the data before introducing more complex details and interactions later in the narrative, when they are better prepared to interpret them. </p>
+
+<p> Scene 2 frames the key message explicitly that poorer countries below a certain threshold of income face disparities in life expectancy. Without this framing, in Scene 3 the user may wander aimlessly through filters without understanding what they’re looking for, what patterns to notice nor what questions they should be asking.</p>
+
+<h2> Annotations </h2>
 
 <h2> Scene 1: </h2>
 <img width="1583" height="1160" alt="image" src="https://github.com/user-attachments/assets/f8c0ec25-28d3-46ca-bbe9-baefac758b9e" />
