@@ -20,6 +20,8 @@
 
 <h2> Annotations </h2>
 
+<p> In the first scene, the annotation is didatic as it helps orient the user to the overall distribution of the data by describing what the axes represent and how countries and their populations are visualized. This prevents user from being confused with the basic template layout of data before proceesing to next stages where even more information is presented. The second annotation shifts from neutral observation to directly emphaisizing the intended message of health and wealth disparity. For the third annotation, the narrative steps back as the annotation instructs the user how to highlight and filter data based on their own interests, empowering the user to explore independantly. 
+  
 <h2> Scene 1: </h2>
 <img width="1583" height="1160" alt="image" src="https://github.com/user-attachments/assets/f8c0ec25-28d3-46ca-bbe9-baefac758b9e" />
 
