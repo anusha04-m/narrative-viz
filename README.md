@@ -8,7 +8,7 @@
 
 <h2> Scene 3 (bowl of glass and exploration) </h2>
 
-<p> Scene 3 corresponds to the bowl of the martini glass where the narrative transitions from the narrow, author-driven path into a reader-driven exploration. At this “jumping off point,” the viewer can choose their own path through the visualization through the following interactive controls:  </p>
+<p> Scene 3 corresponds to the bowl of the martini glass where the narrative transitions from the narrow, author-driven path into a reader-driven exploration. At this “jumping off point,” the viewer can choose their own path through the visualization through continent filters and an income level slider. This highlight specific subsets of the data, including geographic regions as well as countries within the threshold of a certain income level per capita. The user decides which subset of data to view. . This exploration encourages the user to pose their own questions, such as "how does life expectancy differ in Asia compared to Europe at similar income levels?" or "What is the distribution of low-income African countries?". During this stage, the user tests hypotheses and discovers insights about global disparities in income and life expectancy that are not directly narrated by the visualisation. The visualization no longer dictates a single narrative flow but instead provides a structured environment where the viewer can pursue their own lines of inquiry within the controlled data space. </p>
 
 
 <h2> Scene 1: </h2>
